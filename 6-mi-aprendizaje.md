@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado o utilizó otros comandos que no se mencionan al realizar la práctica también se debe documentar.
+Antes de la práctica, tenía conocimientos básicos de Docker, como la creación de contenedores y volúmenes. Tras la práctica, aprendí a gestionar volúmenes nombrados y anónimos, conectando contenedores mediante redes personalizadas y mejorando la persistencia de datos. También entendí cómo usar el cliente pgAdmin para conectarme a bases de datos. Además, resolví problemas relacionados con la asignación de volúmenes y contenedores. Estos aprendizajes mejorarán mi capacidad para gestionar entornos de desarrollo más complejos
